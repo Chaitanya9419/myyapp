@@ -1,0 +1,11 @@
+C:\Users\Chaitanya Krishna\source\repos\calciwith switch\calciwith switch\bin\Debug\netcoreapp2.1\calciwith switch.deps.json
+C:\Users\Chaitanya Krishna\source\repos\calciwith switch\calciwith switch\bin\Debug\netcoreapp2.1\calciwith switch.runtimeconfig.json
+C:\Users\Chaitanya Krishna\source\repos\calciwith switch\calciwith switch\bin\Debug\netcoreapp2.1\calciwith switch.runtimeconfig.dev.json
+C:\Users\Chaitanya Krishna\source\repos\calciwith switch\calciwith switch\bin\Debug\netcoreapp2.1\calciwith switch.dll
+C:\Users\Chaitanya Krishna\source\repos\calciwith switch\calciwith switch\bin\Debug\netcoreapp2.1\calciwith switch.pdb
+C:\Users\Chaitanya Krishna\source\repos\calciwith switch\calciwith switch\obj\Debug\netcoreapp2.1\calciwith switch.csproj.CoreCompileInputs.cache
+C:\Users\Chaitanya Krishna\source\repos\calciwith switch\calciwith switch\obj\Debug\netcoreapp2.1\calciwith switch.AssemblyInfoInputs.cache
+C:\Users\Chaitanya Krishna\source\repos\calciwith switch\calciwith switch\obj\Debug\netcoreapp2.1\calciwith switch.AssemblyInfo.cs
+C:\Users\Chaitanya Krishna\source\repos\calciwith switch\calciwith switch\obj\Debug\netcoreapp2.1\calciwith switch.dll
+C:\Users\Chaitanya Krishna\source\repos\calciwith switch\calciwith switch\obj\Debug\netcoreapp2.1\calciwith switch.pdb
+C:\Users\Chaitanya Krishna\source\repos\calciwith switch\calciwith switch\obj\Debug\netcoreapp2.1\calciwith switch.csprojAssemblyReference.cache
